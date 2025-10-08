@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029108463023",
+    "project_id": "stylesnap-ai-cc2c1",
+    "storage_bucket": "stylesnap-ai-cc2c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029108463023:android:9d187e3197b736e3b26b5a",
+        "android_client_info": {
+          "package_name": "com.company.stylesnap_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcu3NTTDvNyZAGcRWc4AQFakX8OQazi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029108463023:android:f024c6b3fe0ae226b26b5a",
+        "android_client_info": {
+          "package_name": "com.example.stylesnap_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcu3NTTDvNyZAGcRWc4AQFakX8OQazi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
